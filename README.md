@@ -1,4 +1,4 @@
-# # Repository Contents
+# Repository Contents
 
 This repository contains the R scripts and spatial datasets used for the Red Deer distribution modelling study in South Tyrol.
 
